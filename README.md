@@ -1,1 +1,1 @@
-# Contents of the last course, Data Science Capstone.
+# Contents of the last course, Applied Data Science Capstone.
